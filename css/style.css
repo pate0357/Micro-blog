@@ -1,0 +1,171 @@
+
+/*********signup page*********/
+.signup_lable
+{
+    text-align: center;
+    
+    margin-top: 5%;
+    
+}
+#signup_lab
+{
+    font-family: 'Raleway', sans-serif;
+}
+#signin
+{
+    margin-top: 8%;
+    margin-left: 30%;
+    width: 60%;
+     
+}
+
+.signup_passward
+{
+    margin-top: 3%;
+}
+#button
+{
+    width: 15%;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+#signup_submit
+{
+    width: 15%;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+
+/**********show error msg************/
+.errorP{
+    background-color:  black;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: coral;
+    height: 40px;
+    padding-top: 10px;
+}
+/**********landing page************/
+
+#landig_btn
+{
+    width: 100%;
+    padding-left:70%;
+    
+}
+#defaultNav
+{
+    
+}
+
+#btnSignUp
+{   
+    margin-right: 1%;
+    
+}
+#btnSignIn
+{  
+    margin-left:1%;
+    
+}
+#land_title
+{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+
+/************login page**********/
+
+#signinNav
+{
+}
+#login_form
+{
+margin-top: 3%;    
+ margin-left: 45%;   
+}
+#login_pass
+{
+  margin-left: 1%;  
+}
+#login_signin
+{
+    margin-left: 3%;
+}
+
+/*************post********/
+#post_title
+{
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+/*************postdata**********/
+.messageview
+{
+/*    text-align: center;*/
+}
+#post_div
+{
+    font-family: 'Raleway', sans-serif;
+}
+#post_lable
+{
+ font-size: 25px;
+ margin-left: 25%;    
+}
+#post_ptxt
+{ 
+    width: 40%;
+    margin-left: 25%;
+    
+     
+}
+#post_ptime
+{
+    width: 25%;
+    margin-left: 65%;
+    
+}
+/**************post**********/
+#post_form
+{
+    margin-top: 2%;
+    
+}
+#message
+{
+    margin-left: 31%;
+}
+#post_btn
+{
+    margin-left: 63%;
+    margin-top: 1%;
+}
+
+/***********session_start*******/
+
+#session_id
+{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    
+    
+}
+#label_session
+{
+    
+    font-size: 20px;
+    
+}
+#session_btn
+{
+    margin-left: 60%;
+}
+
+
